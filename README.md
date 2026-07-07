@@ -1,6 +1,6 @@
 # 🔫 NYPD Shooting Incident — Fatal vs Non-Fatal Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Classifying Shooting Incident Fatality/blob/main/Notebook/NYPD_Shooting_Fatality_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Classifying-Shooting-Incident-Fatality/blob/main/Notebook/NYPD_Shooting_Fatality_Prediction.ipynb)
 
 An advanced, end-to-end machine learning binary classification pipeline built entirely in Google Colab to analyze historical New York City shooting incidents and accurately predict whether an incident resulted in a fatality (`STATISTICAL_MURDER_FLAG`).
 
