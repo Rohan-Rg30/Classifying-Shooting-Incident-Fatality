@@ -36,9 +36,9 @@ The models were evaluated using an 80/20 train-test split configuration across t
 1. **XGBoost Classifier** — High-performance tree boosting optimized for capturing complex non-linear combinations of features.
 2. **Random Forest** — A powerful bagging ensemble utilized to control model variance and counter overfitting.
 3. **Logistic Regression** — A regularized linear baseline model utilized to evaluate linear separability.
-2. $\color{cyan}{\text{Random Forest}}$ — A powerful bagging ensemble utilized to control model variance and counter overfitting.
+
 ### Performance Summary
-* **Top Performer:** <span style="color: #00FFFF;">Random Forest</span>
+* **Top Performer:** $\color{cyan}{\text{Random Forest}}$
 * **Accuracy** | **85.05%**
 * **Precision** | **Non-Fatal: 0.84%** | **Fatal: 0.86**
 * **Recall** | **Non-Fatal: 0.87%** | **Fatal: 0.83**
