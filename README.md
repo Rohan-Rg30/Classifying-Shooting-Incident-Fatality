@@ -1,4 +1,4 @@
-# 🔫 NYPD Shooting Incident — Fatal vs Non-Fatal Prediction
+# 🔫 Classifying Shooting Incident — Fatal vs Non-Fatal Prediction
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rohan-Rg30/Classifying-Shooting-Incident-Fatality/blob/main/Notebook/NYPD_Shooting_Fatality_Prediction.ipynb)
 
